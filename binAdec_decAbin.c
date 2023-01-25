@@ -27,6 +27,8 @@ int binario_decima(int temp, int numbin){
 }
 	
 
+	
+	//funcion de decimal a binario 
 void dec_bin(int n){
 	
 	int binarray[33];
